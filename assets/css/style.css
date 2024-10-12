@@ -257,6 +257,7 @@ main {
  .container__info{
   display: grid;
   grid-template-columns: 1fr;
+  padding: 15px 0;
  }
  }
 
