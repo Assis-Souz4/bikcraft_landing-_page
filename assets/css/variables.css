@@ -1,0 +1,13 @@
+:root{
+  --vermelho-claro: #e21;
+  --vermelho-escuro: #900;
+  --fundo-cinza: #eae3e3;
+  --fundo-branco: #fff;
+  --pretomax: #000;
+  --fundo-vantagens: #f7f7f7; 
+  --subtitulo-cor: rgba(0, 0, 0, 0.2);
+  --cor-logo: #000;
+  --onda: url("./img/onda.svg");
+  --cor-sombra:2px 2px rgba(0, 0, 0, 0.641);
+}
+
